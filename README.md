@@ -1,2 +1,3 @@
 # Cowin-Vaccine-Slot-Notifier
-Python script to get notified when slot available for vaccination through email 
+
+Python script to get notified for vaccine slot availability through email
