@@ -15,7 +15,7 @@ Python script to get notified for vaccine slot availability through email.
 Clone the project
 
 ```bash
-  git clone https://github.com/Pinqua/Blogjet.git
+  git clone https://github.com/Pinqua/Cowin-Vaccine-Slot-Notifier.git
 ```
 
 Go to the project directory
