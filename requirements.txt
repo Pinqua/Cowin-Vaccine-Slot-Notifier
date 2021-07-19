@@ -1,0 +1,2 @@
+python==3.9.6
+request==2.26.0
