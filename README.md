@@ -20,7 +20,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Cowin-Vaccine-Slot-Notifier
 ```
 
 Install dependencies
